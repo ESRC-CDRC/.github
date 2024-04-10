@@ -1,12 +1,5 @@
-## Hi there 👋
+## Consumer Data Research Centre (CDRC)
 
-<!--
+The Consumer Data Research Centre is the UK's leading source of consumer data, a Phase 1 ESRC Smart Data Research UK (SDRUK) data service. We offer data under three tiers: Open, Safeguarded and Secure. Access to Safeguarded/Secure data is through a reviewed application process. Secure data is accessed through our labs at UCL's central London campus, or remotely through UCL's Data Safe Haven.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+To download our Open datasets, and to apply for Safeguarded/Secure datasets, we ask users to create an account on CDRC Data. This allows us to better understand the impact of our research, and aggregated user statistics are part of our funder's reporting requirements.
